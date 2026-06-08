@@ -18,3 +18,6 @@ and it supports that.
 ## Future Work
 OpenRouter's main value proposition is that it can access many models, so with more time
 I would examine different models and compare the output between them.
+
+## Example Output
+!(./example-output.png)
