@@ -1,10 +1,11 @@
 import json
 
 from pathlib import Path
-from typing import Any
 
 import duckdb
-from openrouter.components import ChatToolCall
+from openrouter.components import (
+    ChatToolCall,
+)
 
 DUCKDB_PATH = Path(__file__).resolve().parents[1] / "warehouse" / "data.duckdb"
 DUCKDB_TOOL = {
