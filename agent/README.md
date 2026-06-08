@@ -20,4 +20,4 @@ OpenRouter's main value proposition is that it can access many models, so with m
 I would examine different models and compare the output between them.
 
 ## Example Output
-!(./example-output.png)
+![Example Output](./example-output.png)
